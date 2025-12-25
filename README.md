@@ -93,3 +93,5 @@ At a high level, I’ve worked on:
 ---
 
 *"Physician who codes. Entrepreneur who ships."*
+
+<!-- profile-readme refresh -->
